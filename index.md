@@ -59,6 +59,7 @@ I am a Ph.D. student in the Department of Computer Science at Tulane University.
 - Tan, Russell Kai Liang, Sean P. Reeves, Niloofar Hashemi, Deepak George Thomas, Emrah Kavak, Reza Montazami, and Nicole N. Hashemi. "Graphene as a flexible electrode: review of fabrication approaches." Journal of Materials Chemistry A 5, no. 34 (2017): 17777-17803. 
 
 ## Service
+- Technical Program Committee Member: EuroMLSys @ EuroSys 2026
 - Technical Program Committee Member: EuroMLSys @ EuroSys 2025
 - Technical Program Committee Member: EuroMLSys @ EuroSys 2024
 - Technical Program Committee Member: EuroMLSys @ EuroSys 2023
