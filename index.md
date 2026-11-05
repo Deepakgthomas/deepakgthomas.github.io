@@ -37,6 +37,8 @@ I am a Ph.D. student in the Department of Computer Science at Tulane University.
 
 ## Publications and Preprints
 
+- Islam, Niful, Ragib Shahriar Ayon, Deepak George Thomas, Shibbir Ahmed, and Mohammad Wardat. "When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling." In 2026 IEEE 37th International Symposium on Software Reliability Engineering (ISSRE). IEEE, 2026. **[Distinguished Paper Award]**
+
 - Thomas, Deepak-George, Matteo Biagiola, Nargiz Humbatova, Mohammad Wardat, Gunel Jahangirova, Hridesh Rajan, and Paolo Tonella. "µPRL: A Mutation Testing Pipeline for Deep Reinforcement Learning based on Real Faults." In 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE), pp. 444-456. IEEE Computer Society, 2024.
 
 - Ghanbari, Ali, Deepak-George Thomas, Muhammad Arbab Arshad, and Hridesh Rajan. "Mutation-based fault localization of deep neural networks." In 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), pp. 1301-1313. IEEE, 2023. **[Distinguished Paper Award]** 
@@ -68,6 +70,7 @@ I am a Ph.D. student in the Department of Computer Science at Tulane University.
 
 ## Awards
 
+- ISSRE 2026 Research Track Distinguished Paper Award
 - 2024 ISU Department of Computer Science Publication Award
 - 2023 ISU Department of Computer Science Publication Award
 - ASE 2023 ACM SIGSOFT Distinguished Paper Award
