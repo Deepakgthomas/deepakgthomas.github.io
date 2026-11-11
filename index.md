@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your Name - Personal Page
+title: Deepak George Thomas
 ---
 
 <style>
